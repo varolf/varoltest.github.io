@@ -1,0 +1,24 @@
+{
+  "name": "Github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varolf/varoltest.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varolf/varoltest.github.io/issues"
+  },
+  "homepage": "https://varoltest.github.io",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
